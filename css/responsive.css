@@ -115,9 +115,11 @@
 	}
 	.heading h1{
 		font-size: 28px;
+		margin: 0 25px;
 	}
 	.heading p{
 		font-size: 14px;
+		margin: 0 25px;
 	}
 	.cd-headline.clip span{
 		font-size: 20px;
